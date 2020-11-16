@@ -35,6 +35,8 @@ Three steps to run the code.
 2. Open CSE6242_data_wrangling.ipynb in your browser.
 3. Click 'Run All' in Cell menu.
 
+Note that the ETL code has a set of logic of calculating distance between each Airbnb rental to each resturant (4 million haversine distances), getting nearest 100 resturants, and picking the top 10 restaurants with highest score, it may take up to 60 minutes to finish computing.  
+
 ##What to Expect After Code Finishes
 After code finishes, 4 csv files will be generated, which will later used to render Geomap in Tableau.
 1. airbnb_resto_1_to_many.csv
