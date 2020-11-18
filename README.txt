@@ -1,14 +1,16 @@
 ## Description
-ETL code for the project "Eat Safe on the Go" is written in Python 3 and it utilize packages: Pandas, Numpy, Matplotlib and
-Jupyter Notebook.
+ETL code for the project "Eat Safe on the Go" is written in Python 3 and it utilize packages: Pandas, Numpy, Matplotlib,
+Jupyter Notebook, and scikit-learn.
 
 ## Package Installation
 Please install Python 3 by following the instructions in https://realpython.com/installing-python/
-To install Pandas, Numpy, Matplotlib, and Jupyter Notebook, please run commands after Python 3 is installed.
+To install all the required packages, please run commands after Python 3 is installed.
 * pip install matplotlib
 * pip install numpy
 * pip install pandas
 * pip install notebook
+* pip install scikit-learn
+
 If you are a user of Anaconda, all packages above may already be installed.
 
 ## Data & Code Download
