@@ -5,11 +5,11 @@ Jupyter Notebook, and scikit-learn.
 ## Package Installation
 Please install Python 3 by following the instructions in https://realpython.com/installing-python/
 To install all the required packages, please run commands after Python 3 is installed.
-* pip install matplotlib
-* pip install numpy
-* pip install pandas
+* pip install pandas==1.1.2
+* pip install numpy==1.19.2
+* pip install matplotlib==3.2.2
+* pip install scikit-learn==0.20.3
 * pip install notebook
-* pip install scikit-learn
 
 If you are a user of Anaconda, all packages above may already be installed.
 
